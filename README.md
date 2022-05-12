@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--Software developer based in England
--Software development, self-improvement, nature and reading
--Learning new concepts in software development and how to make a positive impact
+- Software developer based in England
+- Software development, self-improvement, nature and reading
+- Learning new concepts in software development and how to make a positive impact
 
 
 - 🔭 I’m currently working on an E-commorce platform
