@@ -1,8 +1,6 @@
 ### Hi there 👋
 
--- Software developer based in England
-- Software development, self-improvement, nature and reading
-- Learning new concepts in software development and how to make a positive impact
+-- I am a software developer based in the UK.  I love people, technology, nature and reading. I am using GitHub to increase access to manage my code and to network with great minds and contribute to some good projects.
 
 
 - 🔭 I’m currently working on an E-commorce platform
