@@ -1,13 +1,12 @@
 ### Hi there 👋
 
--- I am a software developer based in the UK.  I love people, technology, nature and reading. I am using GitHub to increase access to manage my code and to network with great minds and contribute to some good projects.
+-- I am a software developer based in the UK.  I love people, technology, nature and reading. I am using GitHub to increase access, manage my code and network with great minds and contribute to some good projects.
 
 
 - 🔭 I’m currently working on an E-commorce platform
 - 🌱 I’m currently learning Python for data analytics
-- 👯 I’m looking to collaborate on Game development using Unity, Unreal engine and C#
-- 🤔 I’m looking for help with anything regarding automated tests
-- 💬 Ask me about web development and Unit tests
+- 👯 I’m looking to collaborate with the larger community on life enhancing projects.
+- 💬 Ask me about agile.
 - 📫 How to reach me: adamekissa@gmail.com
 - 😄 Pronouns: He/Him
 
