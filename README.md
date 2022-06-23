@@ -1,15 +1,23 @@
 ### Hi there 👋
 
--- I am a software developer based in the UK.  I love people, technology, nature and reading. 
-I use GitHub to manage my code, increase my access to useful resources, network with great minds and contribute to some good projects.
+-- I am a software developer based in the UK. I a strong believer in continuous and incremental improvements in all aspects of life.
 
 
-- 🔭 I’m currently working on an E-commorce platform
-- 🌱 I’m currently learning Python for data analytics
+- 🔭 I’m currently working on an E-commerce platform.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with the larger community on life enhancing projects.
 - 💬 Ask me about agile.
 - 📫 How to reach me: adamekissa@gmail.com
-- 😄 Pronouns: He/Him
+
+Some of the main Tech Stacks I work with are.
+
+- Node.js
+- React
+- Express
+- Postgres
+- TypeScript
+- Laravel
+- .NET
 
 ![giphy](https://user-images.githubusercontent.com/37560416/165568093-118633a2-1f94-4237-b824-cdeff01b1fca.gif)
 
