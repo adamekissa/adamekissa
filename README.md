@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I am currently learning Angular and catching up on some more .NET core.
+- 🔭 I am currently learning Angular and catching up on .NET core.
 - 👯 I am looking to collaborate with the larger community on life enhancing projects.
 - 💬 Ask me about agile.
 - 📫 How to reach me: [ https://www.linkedin.com/in/mohammed-adam-16457512a/ ]
