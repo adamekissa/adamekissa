@@ -1,13 +1,11 @@
 ### Hi there 👋
 
--- I am a software developer based in the UK. I a strong believer in continuous and incremental improvements in all aspects of life.
 
 
-- 🔭 I’m currently working on an E-commerce platform.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate with the larger community on life enhancing projects.
+- 🔭 I am currently learning Angular and catching up on some more .NET core.
+- 👯 I am looking to collaborate with the larger community on life enhancing projects.
 - 💬 Ask me about agile.
-- 📫 How to reach me: adamekissa@gmail.com
+- 📫 How to reach me: [ https://www.linkedin.com/in/mohammed-adam-16457512a/ ]
 
 Some of the main Tech Stacks I work with are.
 
@@ -15,9 +13,11 @@ Some of the main Tech Stacks I work with are.
 - React
 - Express
 - Postgres
-- TypeScript
+- OOP
+- C#
 - Laravel
 - .NET
+- SQL
 
 ![giphy](https://user-images.githubusercontent.com/37560416/165568093-118633a2-1f94-4237-b824-cdeff01b1fca.gif)
 
