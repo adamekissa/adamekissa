@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
-
-- 🔭 I am currently learning Angular and catching up on .NET core.
 - 👯 I am looking to collaborate with the larger community on life enhancing projects.
-- 💬 Ask me about agile.
-- 📫 How to reach me: [ https://www.linkedin.com/in/mohammed-adam-16457512a/ ]
+- 💬 Ask me about Web dev and agile.
+- 📫 How to reach me: [ https://www.linkedin.com/in/amjprime/ ]
 
 Some of the main Tech Stacks I work with are.
 
