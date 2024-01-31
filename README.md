@@ -7,14 +7,12 @@
 Some of the main Tech Stacks I work with are.
 
 - Node.js
-- React
-- Express
-- Postgres
-- OOP
-- C#
-- Laravel
 - .NET
 - SQL
+- Express
+- React
+- HTML5
+- CSS
 
 ![giphy](https://user-images.githubusercontent.com/37560416/165568093-118633a2-1f94-4237-b824-cdeff01b1fca.gif)
 
